@@ -1,6 +1,8 @@
 - !<AssetImportMetadata/7249dbee-08cd-43b5-bf78-c4c6ef827e2a>
   ImportedAssetIds:
     Cubemap: !<reference> 71c81dfd-48a7-e063-811f-6af50e423881
+    Diffuse: !<reference> 87331a98-a5bf-46ce-b1ad-50943bc97e72
+    Specular: !<reference> 1b5cfb2b-2799-439b-9149-7955b377b26f
   ImporterName: EnvmapTextureImporter
   PrimaryAsset: !<reference> 00000000-0000-0000-0000-000000000000
   PackageType: LegacyPackage
@@ -14,4 +16,5 @@
   ImporterSettings: !<EnvmapImporterSettings>
     ImageQuality: Normal
     SpecularImageResolution: Medium
+    SampleCountMultiplier: 1.000000
   CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
